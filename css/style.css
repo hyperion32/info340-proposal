@@ -7,14 +7,14 @@ p {
     line-height: 1.5;
 }
 
-li {
-    color: red;
-}
-
 section {
     padding-left: 2em;
-    padding-right: 0em;
-    padding-bottom: 0em;
-    padding-top: 0em;
+}
+
+img {
+    max-width: 500px;
+    max-height: 500px;
+    padding-top: .5em;
+    padding-bottom: 1em;
 }
 
