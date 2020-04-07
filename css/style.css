@@ -1,6 +1,11 @@
+header {
+    display: block;
+}
+
 body {
     font-size: 16px;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: lightgray;
 }
 
 p {
@@ -17,4 +22,3 @@ img {
     padding-top: .5em;
     padding-bottom: 1em;
 }
-
